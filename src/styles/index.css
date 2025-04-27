@@ -9,3 +9,7 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.row {
+    gap: 1.5rem;
+}
